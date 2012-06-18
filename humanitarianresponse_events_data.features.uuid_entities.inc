@@ -18,6 +18,8 @@ function humanitarianresponse_events_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Meetings',
     'path' => array(
       'alias' => 'event-categories/meetings',
@@ -63,6 +65,8 @@ function humanitarianresponse_events_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Trainings',
     'path' => array(
       'alias' => 'event-categories/trainings',
@@ -108,6 +112,8 @@ function humanitarianresponse_events_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Workshops',
     'path' => array(
       'alias' => 'event-categories/workshops',
@@ -153,6 +159,8 @@ function humanitarianresponse_events_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Conferences',
     'path' => array(
       'alias' => 'event-categories/conferences',
