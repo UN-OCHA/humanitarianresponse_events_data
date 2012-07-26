@@ -81,6 +81,23 @@ function humanitarianresponse_events_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => 'deba94b1-3148-8ec4-296a-bc764c626474',
     'vocabulary_machine_name' => 'event_categories',
     'weight' => '0',
@@ -154,6 +171,23 @@ function humanitarianresponse_events_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'e44937d9-0b8b-4a94-5581-4e4761bcc860',
@@ -231,6 +265,23 @@ function humanitarianresponse_events_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => 'be0d4177-3785-fd94-1940-635f43bd2c84',
     'vocabulary_machine_name' => 'event_categories',
     'weight' => '0',
@@ -304,6 +355,23 @@ function humanitarianresponse_events_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'ca6e5ded-a38e-4564-9997-a240aac2da39',
